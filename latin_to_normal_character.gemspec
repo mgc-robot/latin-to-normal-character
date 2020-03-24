@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{latin_to_normal_character}
-  s.version = "0.0.6"
+  s.version = "0.0.7"
   s.date = %q{2020-03-19}
   s.summary = %q{convert latin character to normal character}
   s.description = %q{This will replace the Latin character inside a string to correspond to normal character example: à to a.
@@ -84,6 +84,8 @@ Gem::Specification.new do |s|
       0.0.4 & 0.0.5
     - update the coverage of latin string support.
       0.0.6
+    - fix issue on non string value.
+    0.0.7
     - fix issue on non string value.
 
     }
