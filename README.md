@@ -2,8 +2,12 @@
 ```
 This will replace the Latin character inside a string to correspond normal character example: à to a.
 
+Link to rubygems.org:
+      https://rubygems.org/gems/latin_to_normal_character
+
 GEMFILE:
       gem 'latin_to_normal_character', '~> 0.0.7'
+
 INSTALL:
       gem install latin_to_normal_character
 
