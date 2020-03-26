@@ -69,4 +69,4 @@ List of supported latin characters:
         Q: ['Ƽ'] 
         q: ['ƽ']
         ts: ['ƾ'] 
-        Wynn: ['ƿ']```
+        Wynn: ['ƿ']
