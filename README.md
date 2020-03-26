@@ -1,5 +1,6 @@
 # latin-to-normal-character
-```This will replace the Latin character inside a string to correspond normal character example: à to a.
+```
+This will replace the Latin character inside a string to correspond normal character example: à to a.
 
 GEMFILE:
       gem 'latin_to_normal_character', '~> 0.0.7'
