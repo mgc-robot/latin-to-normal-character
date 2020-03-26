@@ -1,5 +1,5 @@
 # latin-to-normal-character
-This will replace the Latin character inside a string to correspond normal character example: à to a.
+```This will replace the Latin character inside a string to correspond normal character example: à to a.
 
 Usage: 
       LatinToNormalCharacter.transform('ThÏs ís Â strìng wÌth Lãtîn úñîcÔdë.') and will return a string value of "ThIs is A string wIth Latin unicOde.
@@ -69,4 +69,4 @@ List of supported latin characters:
         Q: ['Ƽ'] 
         q: ['ƽ']
         ts: ['ƾ'] 
-        Wynn: ['ƿ']
+        Wynn: ['ƿ']```
