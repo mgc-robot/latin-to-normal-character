@@ -1,6 +1,11 @@
 # latin-to-normal-character
 ```This will replace the Latin character inside a string to correspond normal character example: à to a.
 
+GEMFILE:
+      gem 'latin_to_normal_character', '~> 0.0.7'
+INSTALL:
+      gem install latin_to_normal_character
+
 Usage: 
       LatinToNormalCharacter.transform('ThÏs ís Â strìng wÌth Lãtîn úñîcÔdë.') and will return a string value of "ThIs is A string wIth Latin unicOde.
 
